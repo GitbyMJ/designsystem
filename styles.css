@@ -60,12 +60,14 @@ h3 {
 
 p {
     text-align: left, justify;
+    margin: auto;
 }
 
 div {
     display: inline-table;
     width: 300px;
-    padding: 10px;
+    margin: auto;
+    padding: 10px 5px 10px 25px;
 }
 
 /** Colors Section of the Webpage! **/
